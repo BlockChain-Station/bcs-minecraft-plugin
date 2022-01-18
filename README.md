@@ -1,1 +1,1 @@
-# Enjin Minecraft Plugin
+# BCS Minecraft Plugin
